@@ -4,31 +4,31 @@ Dokumentation222
 
 # Abwassersurveillance AMELAGasdd
 
-<br>
+<br>&#8203;
   
 
-<br>
+<br>&#8203;
 
 **[Robert Koch-Institut](https://www.rki.de/)**, & **[Umweltbundesamt](https://www.umweltbundesamt.de/)**
 
-<br>
+<br>&#8203;
 
 **Beitragende**  
 [Fachgebiet 32](https://www.rki.de/fg32)¹
 
   ¹ [Robert Koch-Institut](https://www.rki.de/)
 
-<br>
+<br>&#8203;
 
 **Zitieren**  
 Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18680943](https://doi.org/10.5281/zenodo.18680943)
 
-<br>
+<br>&#8203;
 
 **Zusammenfassung**  
 Im Datensatz "Abwassersurveillance AMELAG" des Robert Koch-Instituts und Umweltbundesamts werden Daten aus der Überwachung von Infektionserregern im Abwasser bereitgestellt. Die Daten zur SARS-CoV-2-Viruslast werden seit Februar 2022 in einem bundesweiten Netzwerk von Kläranlagen, Laboren und Behörden erhoben. Seitdem wurden die Daten um die Viruslast weiterer respiratorischer Viren (Influenza A/B, RSV) ergänzt. Der Datensatz enthält neben Einzelwerten der Kläranlagen auch bevölkerungsgewichtete, aggregierte Zeitreihen. Darüber hinaus werden Auswertungsskripte als Kontextmaterialien bereitgestellt.
 
-<br>
+<br>&#8203;
 
 **Inhaltsverzeichnis**
 
@@ -39,14 +39,14 @@ Im Datensatz "Abwassersurveillance AMELAG" des Robert Koch-Instituts und Umweltb
 - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
 <!-- TOC_END -->
 
-<br>
+<br>&#8203;
 
 <!-- HEADER_END -->
 
 ---
 
 **[--- please find the English version here ---](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG/blob/main/Readme.en.md)**
-<br>
+<br>&#8203;
 
 ## Informationen zum Datensatz und Entstehungskontext
 
@@ -158,7 +158,7 @@ Die Datei [amelag_einzelstandorte.tsv](https://github.com/robert-koch-institut/A
 
 | Variable               | Typ     | Ausprägungen                                                                                       | Beschreibung                                                                                                                                                                                                                                                                            |
 |------------------------|---------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| standort               | string  | Beispiele: `Aachen`, `Ratzeburg`, `Weil am Rhein`                                                  | Standort der Kläranlage.                                                                                                                                                                                                                                                                |
+| standort               | string  | Beispiele: `Aachen`, `Ratzeburg`, `Weil am Rhein`                                                  | Standort der Kläranlage.<br>das                                                                                                                                                                                                                                                         |
 | bundesland             | string  | Werte: `BB`, `BE`, `BW`, `BY`, `HB`, `HE`, `HH`, …                                                 | Kürzel des Bundeslandes, in dem sich die Kläranlage befindet.                                                                                                                                                                                                                           |
 | datum                  | date    | Format: `YYYY-MM-DD`<br>Fehlende Werte: `NA`                                                       | Datum, an dem die 24-Stunden-Mischprobenahme in der Kläranlage begonnen hat.                                                                                                                                                                                                            |
 | viruslast              | number  | Werte: `≥0`<br>Fehlende Werte: `NA`                                                                | Gemessene Viruslast (in Genkopien pro Liter).                                                                                                                                                                                                                                           |
