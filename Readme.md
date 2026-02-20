@@ -4,10 +4,7 @@ Dokumentation
 
 # Abwassersurveillance AMELAG
 
-<br>
-  
-
-<br>
+<br><br><br>
 
 **[Robert Koch-Institut](https://www.rki.de/)**, & **[Umweltbundesamt](https://www.umweltbundesamt.de/)**
 
@@ -486,3 +483,5 @@ Der Datensatz "Abwassersurveillance AMELAG" ist lizenziert unter der [Creative C
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG/blob/main/LIZENZ) Datei des Datensatzes.
 
 <!-- FOOTER_END -->
+
+&#8203;
