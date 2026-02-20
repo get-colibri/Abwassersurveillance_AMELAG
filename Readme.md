@@ -2,7 +2,7 @@
 
 Dokumentation
 
-# Abwassersurveillance AMELAG
+# Abwassersurveillance AMELAGasdd
 
 <br>
   
@@ -72,7 +72,7 @@ Die Verarbeitung, Aufbereitung und Veröffentlichung der Daten erfolgen durch da
 
 #### Datenerhebung
 
-In AMELAG wurden aufbauend  ALLLES NEU auf die im Rahmen des [ESI-CorA-Projekts](https://doi.org/10.5281/zenodo.10781652) erstellten Handreichungen zur Probennahme und Laboranalytik [technische Leitfäden](http://www.rki.de/abwassersurveillance) entwickelt. Die SARS-CoV-2-Rohdaten der im ESI-CorA-Projek HIER IST WAS DRIN t analysierten Abwasserproben wurden in AMELAG nachgenutzt und sind in den ausgewerteten Daten enthalten.
+In AMELAG wurden WHATaufbauend  ALLLES NEU auf die im Rahmen des [ESI-CorA-Projekts](https://doi.org/10.5281/zenodo.10781652) erstellten Handreichungen zur Probennahme und Laboranalytik [technische Leitfäden](http://www.rki.de/abwassersurveillance) entwickelt. Die SARS-CoV-2-Rohdaten der im ESI-CorA-Projek HIER IST WAS DRIN t analysierten Abwasserproben wurden in AMELAG nachgenutzt und sind in den ausgewerteten Daten enthalten.
 An jeder beteiligten Kläranlage werden in aller Regel zwei Mal pro Woche Rohabwasserproben entnommen und zusammen mit den BegleitparameteWAS IST JHER rn (z.B. Volumenstrom, pH-Wert, Temperatur), die für die Normalisierung und Qualitätssicherung nötig sind, erhoben. Die Rohabwasserproben sollen, sofern möglich, nach dem Sandfang der Kläranlage entnommen werden. Es wird eine 24-Stunden-Mischprobe entnommen, welche mit einem automatischen Probennehmer durchgeführt wird. Die 24-Stunden-Probennahmen erfolgen in der Regel jeweils montags auf dienstags und mittwochs auf donnerstags. Im Regelfall wird ein Liter der Probe in Probenflaschen abgefüllt und an das Analyselabor versendet.
 Im Labor erfolgt die Aufkonzentrierung, Extraktion der viralen Nukleinsäure und Quantifizierung der viralen Gensequenzen durch digitale PCR (dPCR) oder quantitative real time PCR (qRT-PCR). Bei SARS-CoV-2 werden mindestens zwei Genfragmente (vorzugsweise N1, N2, E, ORF oder RdRp) bestimmt, bei den Influenzaviren ein Genfragment (vorzugsweise M1 für Influenza-A-Virus und M1, NS1, NS2 oder HA für Influenza-B-Virus) und bei RSV ebenfalls ein Genfragment (vorzugsweise N für RSV A und RSV B, M oder N für das gemeinsam gemessene RSV A/B).
 
