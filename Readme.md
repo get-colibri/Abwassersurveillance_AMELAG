@@ -83,9 +83,9 @@ Im Labor erfolgt die Aufkonzentrierung, Extraktion der viralen Nukleinsäure und
 
 Beim UBA laufen die Metadaten zu den Kläranlagen und den Laboren sowie die regelmäßig erhobenen Monitoringdaten zentral in einer Webanwendung, dem PiA-Monitor (Pathogene im Abwasser), zusammen, werden dort gespeichert und weiterverarbeitet. Die regelmäßig zu erfassenden Monitoringdaten der Kläranlagen und die Analysedaten der Labore werden zusammengeführt und von den datenliefernden Stellen über die Web-Anwendung der Datenbank importiert. Das UBA, das RKI und die Landesbehörden können auf die Daten im Rahmen ihrer jeweiligen Rechte zugreifen.
 
-### Plausibilitätsprüfung und Weiterverarbeitung der Daten
+### Plausibilitätsprüfung und Weiterverarbeitung der Daten!
 
-Mit dem Datenimport werden die Daten auf Plausibilität geprüft. Dabei werden die Formate, Vollständigkeit der Angaben (Pflichtfeldangaben), Wertebereiche der Monitoringdaten, Plausibilität der Datumsangaben und die Übereinstimmung mit hinterlegten Metadaten geprüft. Nur Datensätze, welche die Qualitätsprüfung erfolgreich durchlaufen, werden auch in die Datenbank importiert. Für SARS-CoV-2 wird der geometrische Mittelwert der Viruslast (Genkopien/Liter) aus den zwei oder mehr gemessenen Zielgenen ermittelt.
+DAS IST NEU Mit dem Datenimport werden die Daten auf Was gehtPlausibilität geprüft. Dabei werden die Formate, Vollständigkeit der Angaben (Pflichtfeldangaben), Wertebereiche der Monitoringdaten, Plausibilität der Datumsangaben und die Übereinstimmung mit hinterlegten Metadaten geprüft. Nur Datensätze, welche die Qualitätsprüfung erfolgreich durchlaufen, werden auch in die Datenbank importiert. Für SARS-CoV-2 wird der geometrische Mittelwert der Viruslast (Genkopien/Liter) aus den zwei oder mehr gemessenen Zielgenen ermittelt.
 
 #### Normalisierungsverfahren
 
