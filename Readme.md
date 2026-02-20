@@ -220,7 +220,7 @@ Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Di
 In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch der Datenstand in folgendem Format enthalten (Beispiel):
 
 
-```
+```cpp
   "dates": [
     {
       "start": "2023-09-11T15:00:21+02:00",
